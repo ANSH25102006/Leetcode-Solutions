@@ -19,16 +19,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ANSH25102006/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [1189-maximum-number-of-balloons](https://github.com/ANSH25102006/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2965-find-missing-and-repeated-values](https://github.com/ANSH25102006/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/ANSH25102006/Leetcode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ANSH25102006/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ANSH25102006/Leetcode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/ANSH25102006/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/ANSH25102006/Leetcode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/ANSH25102006/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/ANSH25102006/Leetcode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ANSH25102006/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
 |  |
