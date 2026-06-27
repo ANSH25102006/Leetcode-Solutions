@@ -56,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ANSH25102006/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ANSH25102006/Leetcode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Math
+|  |
+| ------- |
+| [2652-sum-multiples](https://github.com/ANSH25102006/Leetcode-Solutions/tree/master/2652-sum-multiples) |
 <!---LeetCode Topics End-->
