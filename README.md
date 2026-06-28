@@ -79,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ANSH25102006/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/ANSH25102006/Leetcode-Solutions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
