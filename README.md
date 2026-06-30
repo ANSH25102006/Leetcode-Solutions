@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ANSH25102006/Leetcode-Solutions/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ANSH25102006/Leetcode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/ANSH25102006/Leetcode-Solutions/tree/master/2652-sum-multiples) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/ANSH25102006/Leetcode-Solutions/tree/master/2698-find-the-punishment-number-of-an-integer) |
