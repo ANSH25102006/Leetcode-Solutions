@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ANSH25102006/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/ANSH25102006/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ANSH25102006/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ANSH25102006/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/ANSH25102006/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ANSH25102006/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ANSH25102006/Leetcode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/ANSH25102006/Leetcode-Solutions/tree/master/0176-second-highest-salary) |
 | [0184-department-highest-salary](https://github.com/ANSH25102006/Leetcode-Solutions/tree/master/0184-department-highest-salary) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/ANSH25102006/Leetcode-Solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ANSH25102006/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
